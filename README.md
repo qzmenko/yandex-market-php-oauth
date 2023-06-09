@@ -40,4 +40,4 @@
 
 ## Использование
 
-См. [Wiki](https://github.com/yandex-market/yandex-market-php-oauth/wiki) и [документацию OAuth в Яндексе](https://tech.yandex.ru/oauth/doc/dg/concepts/about-docpage/).
+[документация OAuth в Яндексе](https://tech.yandex.ru/oauth/doc/dg/concepts/about-docpage/).
